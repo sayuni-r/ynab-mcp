@@ -1,0 +1,1 @@
+Specs live in specs/. Never write code that isn't in an approved task. If the spec is unclear, ask, don't guess.
